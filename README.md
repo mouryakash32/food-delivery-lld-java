@@ -1,3 +1,4 @@
+```
 🍔 Foodyfy - Food Delivery App (Low Level Design in Java)
 
 A Low Level Design (LLD) implementation of a food delivery application in Java. It covers the complete flow: browsing restaurants, adding items to a cart, placing an order (immediate or scheduled, delivery or pickup), paying, and getting notified.
@@ -40,3 +41,4 @@ Foodyfy/
     │   └── TimeUtils.java
     ├── Foodify.java                       (app facade / setup)
     └── Main.java                          (entry point)
+```
